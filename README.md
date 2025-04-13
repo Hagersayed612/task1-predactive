@@ -1,5 +1,4 @@
 
-
 ## 📊 Predicting Sales Using Advertising Data (Linear Regression)
 
 This project is part of a **data analysis task** I completed during my internship with **InternIntelligence**.  
