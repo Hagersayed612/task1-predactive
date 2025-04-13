@@ -51,15 +51,11 @@ Can we predict future **sales** based on how much a company spends on different 
 
 ---
 
-### 📺 Demo Video  
-🎥 [Click here to watch the walkthrough](your-video-link)
-
----
 
 ### 📎 Notebook & Files
 
-- [`advertising_regression.ipynb`](./advertising_regression.ipynb)
-- [`Advertising.csv`](./Advertising.csv)
+- [`advertising_regression.ipynb`]( https://www.kaggle.com/code/hagersayedr/task1-predactive)
+
 
 ---
 
@@ -72,8 +68,8 @@ I'm passionate about using **machine learning** and **data analysis** to solve r
 
 ### 🔗 Connect with Me
 
-- 💼 LinkedIn:
-- 🧠 Kaggle:https://www.kaggle.com/code/hagersayedr/task1-predactive
+- 💼 LinkedIn:https://www.linkedin.com/in/hager-sayed-327797232
+- 🧠 Kaggle:https://www.kaggle.com/code/hagersayedr
 - 📧 Email:hagersayed573@gmail.com
 
  
